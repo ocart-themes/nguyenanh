@@ -11,7 +11,7 @@
                     </a>
                     <div class="footer-add">
                         <p>
-                            <a href="https://phantrungnguyen.com" target="_blank">phantrungnguyen.com</a>
+                            <a href="https://phantrungnguyen.com" target="_blank">https://phantrungnguyen.com</a>
                         </p>
                         <p>0357 096 209</p>
                         <p>nguyenpl117@gmail.com</p>
