@@ -37,7 +37,7 @@
         })
     </script>
     <style>
-        code {
+        code:not([class*=language]) {
                 white-space: pre-wrap;
                 word-wrap: break-word;
                 padding: 2px 5px;
