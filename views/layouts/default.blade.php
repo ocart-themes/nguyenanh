@@ -36,6 +36,17 @@
             })
         })
     </script>
+    <style>
+        code {
+                white-space: pre-wrap;
+                word-wrap: break-word;
+                padding: 2px 5px;
+                border: solid 1px #ccc;
+                color: red;
+                font-weight: 400;
+                font-size: 13px;
+        }
+    </style>
 </head>
 <body>
 <div class="font-sans text-gray-900 antialiased">
